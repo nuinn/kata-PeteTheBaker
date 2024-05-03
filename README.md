@@ -1,4 +1,4 @@
-## Pete, the baker
+## Kata: Pete, the baker (by BattleRattle) <5 kyu>
 
 ### DESCRIPTION:
 
